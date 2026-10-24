@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://baojch.github.io/assets/images/portrait.jpg" width="120" alt="Jiacheng Bao"/>
-</p>
-
 <h1 align="center">Jiacheng Bao 包佳诚</h1>
 
 <p align="center">
@@ -25,13 +21,6 @@ I am a Ph.D. student at Shanghai AI Laboratory and Northwestern Polytechnical Un
 - Robot-native motion generation
 - Humanoid–environment interaction
 - Embodied AI and robot learning
-
-## News
-
-- **2026** — ZeroWBC accepted at CoRL 2026.
-- **2026** — PhyGile and Learn Weightlessness accepted at IROS 2026.
-- **2026** — RPG accepted at ICRA 2026.
-- **2024** — OMG accepted at CVPR 2024.
 
 ## Selected Publications
 
@@ -62,11 +51,6 @@ Han Liang, Jiacheng Bao, et al. · *CVPR 2024*
 - [**phygile_tracking**](https://github.com/Baojch/phygile_tracking) — General humanoid motion tracking for PhyGile, including single-motion, curriculum, fine-tuning, and mixture-of-experts training in Isaac Lab.
 - [**phygile-page**](https://github.com/Baojch/phygile-page) — Project page for PhyGile.
 - [**SuperMimic_Dyn**](https://github.com/Baojch/SuperMimic_Dyn) — High-dynamic humanoid skills in MuJoCo, including flips, cartwheels, crawling, fall recovery, and whole-body tracking.
-
-## Education
-
-- **Northwestern Polytechnical University** — Ph.D. student, advised by Prof. Bin Zhao
-- **ShanghaiTech University** — B.E.
 
 ## Links
 
